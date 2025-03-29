@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a student in Kolymvari High School
 <!--
 **Ierotheos13/ierotheos13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
